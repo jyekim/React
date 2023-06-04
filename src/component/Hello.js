@@ -17,7 +17,7 @@ export default function Hello() {
   function showname() {
     console.log("Mike");
   }
-  function showage(age) {
+  function showage(age) {    
     console.log(age);
   }
   function showText(txt) {
